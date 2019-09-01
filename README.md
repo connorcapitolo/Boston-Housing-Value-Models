@@ -1,3 +1,3 @@
 # Boston-Housing
 
-Boston Housing dataset from Kaggle
+Boston Housing dataset taken from Kaggle that is used to predict housing values for some suburbs of Boston
